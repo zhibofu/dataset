@@ -1,0 +1,13 @@
+# dataset path
+train: C:/Users/fu\Desktop/yolov8/dataset/images/train
+val: C:/Users/fu\Desktop/yolov8/dataset/images/val
+test: ./dataset/images/test
+
+
+# train: ./dataset/images/train
+# val: ./dataset/images/val
+# test: ./dataset/images/test
+
+# number of classes
+nc: 2
+names: ['mei', 'ganshi']
